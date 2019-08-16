@@ -1,3 +1,2 @@
 # Python-programs
-
-This repository contains the milestone projects of udemy python bootcamp course.
+A repository for small python programs.
